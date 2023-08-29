@@ -118,7 +118,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          新疆能化 ChatGPT WebUI（内测Beta01）
+          新疆能化 ChatGPT（内测）
         </div>
         <div className={styles["sidebar-sub-title"]}>
           你专属的 ChatGPT AI 调度助理.
