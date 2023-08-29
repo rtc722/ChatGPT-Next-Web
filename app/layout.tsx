@@ -7,7 +7,7 @@ import { type Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "新疆能化 ChatGPT WebUI（内测Beta01）",
-  description: "你一个人的 ChatGPT 助理机器人",
+  description: "你专属的 ChatGPT 调度助理",
   viewport: {
     width: "device-width",
     initialScale: 1,
